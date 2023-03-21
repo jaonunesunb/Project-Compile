@@ -1,0 +1,9 @@
+.modal {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+.ReactModal__Overlay {
+  overflow-y: scroll;
+}
